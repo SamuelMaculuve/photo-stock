@@ -1,12 +1,10 @@
-<header class="clearfix">
-
+<header class="clearfix">  
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container-fluid">
-
             <a class="navbar-brand" href="index.html">
                 <img src="images/logo.png" alt="">
             </a>
-
+            
             <div class="search-area m-auto">
                 <form class="search-form">
                     <input type="search" name="search-elem" id="search-elem" placeholder="Search people, places, whatever..." />
@@ -15,7 +13,6 @@
                     </button>
                 </form>
             </div>
-
             <div class="filter-area">
                 <span>Sort by:</span>
                 <div class="category-filter">
@@ -38,14 +35,11 @@
                     </ul>
                 </div>
             </div>
-
             <a class="open-close-menu" href="#">
                 <span></span>
                 <span></span>
                 <span></span>
             </a>
-
-
         </div>
     </nav>
 
