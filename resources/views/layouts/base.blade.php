@@ -10,7 +10,9 @@
 
 	<link rel="stylesheet" href="{{ asset('css/shutter-assets.min.css') }}">
 	<link rel="stylesheet" type="text/css" href="{{ asset('css/style.css') }}">
-
+    <link rel="stylesheet" href="{{ asset('css/header.css') }}">
+    <link rel="stylesheet" href="{{ asset('css/footer.css') }}">
+    <link rel="stylesheet" href="{{ asset('css/ionicons.min.css') }}">
 </head>
 <body>
 

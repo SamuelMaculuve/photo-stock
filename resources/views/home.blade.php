@@ -3,6 +3,50 @@
 @section('base_content')
 <!-- photos-section
 ================================================== -->
+
+<header class=" header custom-background">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 texto ">
+                <p class="h1"> Beautiful Free Stock Photos</p>
+                <p > New CC0 images added daily, <a href="">free from copyright restrictions.</a></p>
+
+            </div>
+        </div>
+    </div>
+
+<div class="search-area text-center">
+<form class="search-form">
+    <input type="search" name="search-elem" id="search-elem" placeholder="Search free photos..." />
+    <button class="submit">
+        <i class="fa fa-search"></i>.
+    </button>
+</form>
+</div>
+
+
+    <div class="popular-tags">
+        <h5 class="h6">Trending:</h5>
+        <a href="/search/business">business</a>
+        <a href="/search/nature">nature</a>
+        <a href="/search/flower">flower</a>
+        <a href="/search/beach">beach</a>
+        <a href="/search/wallpaper">wallpaper</a>
+        <a href="/search/love">love</a>
+        <a href="/search/technology">technology</a>
+        <a href="/search/food">food</a>
+        </div>
+        <div class="featured-container">
+            <p class="featured-photographer">Feito por  <a href="/photo/sunflower-field-HMM2DZNEFK">samuel</a></p>
+            <p class="featured-partner"><a href="https://adobe.prf.hn/click/camref:1011ltUe2/pubref:stocksnap/destination:https://stock.adobe.com/" target="_blank" rel="nofollow noopener noreferrer">Get 10 Free Images <i class="fa fa-chevron-right" aria-hidden="true"></i></a></p>
+        </div>
+</header>
+
+
+<!-- Colocar cards aqui-->
+
+
+
 <section class="photos-section">
 
     <div class="photos-box iso-call">

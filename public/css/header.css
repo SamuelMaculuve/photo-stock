@@ -1,0 +1,179 @@
+.texto p{
+align-items: center;
+text-align: center;
+}
+
+.ultimos,a{
+    padding: 5px 10px; /* Adiciona um pequeno espaço interno */
+   color: white;
+   text-decoration: none; 
+
+}
+ p{
+   color: white;
+}
+
+#main-search-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+}
+
+.form-control {
+    width: 300px;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+.main-search-btn {
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+}
+.popular-tags {
+    display: flex;
+    justify-content: center;
+}
+.popular-tags a {
+    margin: 0 5px;
+    padding: 5px 10px; /* Adiciona um pequeno espaço interno */
+  text-decoration: underline;
+    color: #fff;
+
+}
+
+
+
+
+.featured-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; /* Centraliza verticalmente */
+    text-decoration: none;
+    
+}
+
+.featured-container a {
+    text-decoration: none;
+}
+
+.featured-photographer {
+    margin: 0;
+}
+
+.featured-partner {
+    margin: 0;
+}
+
+.featured-partner a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    text-decoration: none;
+}
+
+.featured-partner i {
+    margin-left: 5px;
+}
+
+/* home.css */
+
+.custom-background {
+    background: url('https://cdn.stocksnap.io/img-thumbs/960w/sunflower-field_HMM2DZNEFK.jpg') no-repeat center center fixed;
+    background-size: cover;
+    filter: brightness(1);
+    /* Outras propriedades de estilo, como cor do texto e espaçamento, podem ser adicionadas aqui */
+}
+
+.header{
+    padding-top: 3rem;
+}
+
+
+
+
+
+
+
+#main-search-form {
+    display: flex;
+    align-items: center;
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  /* Estilos para a caixa de entrada de texto */
+  .form-control.main-search {
+    width: 100%;
+    padding: 15px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+
+.dam{
+    display: flex;
+    justify-content: center;
+    margin: 0 5px;
+    padding: 5px 10px; /* Adiciona um pequeno espaço interno */
+  text-decoration: underline;
+    color: #fff;
+
+}
+
+.search-area .search-form {
+    margin: 0;
+    text-align: center;
+    position: relative;
+    width: 322px;
+    max-width: 100%; }
+    .search-area .search-form input {
+      background: #f1f1f1;
+      border: 1px solid transparent;
+      padding: 9px 30px;
+      outline: none;
+      color: #696969;
+      font-size: 13px;
+      font-family: "Open Sans", sans-serif;
+      font-weight: 400;
+      width: 100%;
+      -webkit-border-radius: 25px;
+      -moz-border-radius: 25px;
+      -ms-border-radius: 25px;
+      border-radius: 25px; }
+    .search-area .search-form button {
+      position: absolute;
+      top: 10px;
+      right: 30px;
+      background: transparent;
+      border: none;
+      outline: none;
+      color: #696969;
+      font-size: 13px !important;
+      padding: 0;
+      cursor: pointer;
+      transition: all 0.2s ease-in-out;
+      -moz-transition: all 0.2s ease-in-out;
+      -webkit-transition: all 0.2s ease-in-out;
+      -o-transition: all 0.2s ease-in-out; }
+    .search-area .search-form button:hover {
+      color: #ff9900; }
+
+
+
+      .search-area {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+       /* Isso é opcional, define a altura da div para ocupar toda a altura da viewport */
+    }
