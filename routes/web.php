@@ -16,6 +16,10 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('home');
 });
+Route::get('/pictureDetails', function () {
+    return view('pictureDetails');
+});
+
 
 Auth::routes();
 

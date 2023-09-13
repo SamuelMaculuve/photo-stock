@@ -37,7 +37,7 @@
                         <span>children, education</span>
                     </div>
                     <div class="share-like">
-                        <a href="#" class="like">120 <i class="fa fa-heart" aria-hidden="true"></i></a>
+                        <a href="../../resources/views/pictureDetails.blade.php" class="like">120 <i class="fa fa-heart" aria-hidden="true"></i></a>
                         <a href="#" class="share"> <i class="fa fa-share-alt" aria-hidden="true"></i></a>
                         <ul class="share-list">
                             <li><a href="#"><i class="fa fa-google"></i></a></li>

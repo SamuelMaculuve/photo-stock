@@ -62,7 +62,7 @@
 					<div class="row">
 						<div class="col-md mb-md-0 mb-4">
 							<ul class="list-unstyled">
-								<li><a href="#" class="py-1 d-block link">Sobre nós</a></li>
+								<li><a href="" class="py-1 d-block link">Sobre nós</a></li>
 								<li><a href="#" class="py-1 d-block link">Anunciar</a></li>
 								<li><a href="#" class="py-1 d-block link">Recursos</a></li>
 								<li><a href="#" class="py-1 d-block link">Termos de uso</a></li>
